@@ -21,6 +21,6 @@ exports.max = function max (array) {
 }
 
 exports.avg = function avg (array) {
-  let out  = 
+  let out  = 0;
   return 0;
 }
